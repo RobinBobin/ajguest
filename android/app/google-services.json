@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721548094670",
+    "project_id": "ajguest-2b77a",
+    "storage_bucket": "ajguest-2b77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721548094670:android:067645907075854114749f",
+        "android_client_info": {
+          "package_name": "com.ajguest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721548094670-otrpk9lg68u3p73kdh7faah8qrlu8hon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfR8pjBSjIDDsawRXRSpVhbMqz7_hi6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721548094670-otrpk9lg68u3p73kdh7faah8qrlu8hon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
